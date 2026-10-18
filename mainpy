@@ -10,7 +10,7 @@ from fastapi import FastAPI, Query, Request
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import PlainTextResponse
 
-EMAIL = "businessmakers662@gmail.com"
+EMAIL = "24f3004648@ds.study.iitm.ac.in"
 STARTED = time.monotonic()
 
 app = FastAPI()
